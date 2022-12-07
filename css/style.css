@@ -1,0 +1,573 @@
+
+header h1{
+    font-family: 'Tangerine', cursive;
+    background-color: #508A7D;
+    text-align: center;
+}
+body{
+    background-color: #EAEDED;
+}
+
+#splash{
+    width: 100%;
+    height: 60vh;
+    background: url(/img/primero.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.espacios{
+    padding-top: 20px;
+    padding-bottom: 80px;
+}
+.descripcion{
+    background-size: cover;
+    background-image: url(/img/fonditos.jpg);
+    background-color: #E5E8E8;
+    font-family: maitree, serif;
+}
+iframe{
+    border: 2px;
+    border-color: black;
+    width: 90%;
+    height: 130%;
+    margin: 70px auto;
+    display: block;
+}
+
+#cuenta{
+    text-align: center;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+.simply-section{
+    background-color: #508A7D;
+	width: 100px;
+	height: 100px;
+	margin: 0 20px;
+	border-radius: 5px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+    box-shadow: 10px 10px 18px 1px rgb(59, 59, 59);
+}
+
+.simply-amount{
+	display: block;
+	font-size: 40px;
+	font-weight: 400;
+}
+
+.simply-word{
+	font-weight: 600;
+	font-size: 20px;
+    font-family: 'Poiret One', cursive;
+}
+#titcont{
+    margin-top: 0px;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+    font-weight: 400;
+}
+#NH{
+    font-family: 'Tangerine', cursive;
+    font-size: 60px;
+    text-align: center;
+}
+#pNH{
+    margin-bottom: 30px;
+    margin-top: -20px;
+    font-size: 23px;
+    font-weight: 600;
+    font-family: 'Poiret One', cursive;
+    text-align: center;
+}
+.imag{
+    text-align: center;
+}
+.imag img{
+    height: 300px;
+}
+.img2{
+    text-align: center;
+}
+.img2 img{
+    height: 300px;
+}
+#carru img{
+    margin-top: 40px;
+    height: 100%;
+    width: 100%;
+}
+.carousel-item img{
+    width: 100%;
+}
+.carousel-control-prev{
+    margin-top: 35px;
+    margin-left: 15px;
+}
+.carousel-control-next{
+    margin-top: 35px;
+    margin-right: 15px;
+}
+.section4 .btnn{
+    margin-bottom: -0px;
+}
+.section4{
+    text-align: center;
+}
+.section4 h3{
+    text-align: center;
+    font-family: 'Tangerine', cursive;
+    font-size: 40px;
+    margin-top: 30px;
+}
+.section4 h6{
+    font-size: 20px     ;
+    margin-top: 20px;
+    font-family: 'Poiret One', cursive;
+    text-align: center;
+}
+.section5 p{
+    font-size: 15px;
+    font-family: 'Poiret One', cursive;
+}
+.section4 img{
+    height: 40px;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+.section4 p{
+    font-size: 15px;
+    font-family: 'Poiret One', cursive;
+}
+.mapita{ 
+    height: 200px;
+    margin-top: -50px;
+    margin-bottom: 40px;
+}
+.section5{
+    background-size: cover;
+    background-image: url(/img/fonditos.jpg);
+    text-align: center;
+    background-color: #E5E8E8;
+}
+.section5 h3{
+    font-family: 'Tangerine', cursive;
+    font-size: 40px;
+    margin-top: 30px;
+}
+.section5 h6{
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 20px;
+    font-family: 'Poiret One', cursive;
+    text-align: center;
+}
+.section5 p{
+    font-weight: 600;
+}
+.section5 img{
+    height:40px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.mapita2{
+
+    margin-top: -40px;
+    height: 200px;
+    margin-bottom: 90px;
+}
+.section6{
+    text-align: center;
+}
+.section6 h3{
+    font-family: 'Tangerine', cursive;
+    font-size: 40px;
+    margin-top: 30px;
+}
+.section6 h6{
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 20px;
+    font-family: 'Poiret One', cursive;
+    text-align: center;
+}
+#iconito{
+    color: #333;
+    margin-top: 10px;
+}
+.btnn{
+    border: 1px;
+    margin-top: 30px;
+    text-align: center;
+    padding: 20px 20px 20px 20px; ;
+    background-color: #508A7D;
+    border-radius: 17px;
+    margin-bottom: 40px;
+}
+button a{
+    font-weight: 600;
+    font-family: 'Poiret One', cursive;
+    text-decoration: none;
+    color: #333;
+}
+button a:hover{
+    color: #333;
+    text-decoration: none;
+}
+.btnn:hover{
+    opacity: 75%;
+    padding: 25px 25px 25px 25px;
+    color: #333;
+    text-decoration: none;
+}
+.section8{
+    background-size: cover;
+    background-image: url(/img/fonditos.jpg);
+    background-color: #E5E8E8;
+    text-align: center;
+}
+.section8 h3{
+    font-family: 'Tangerine', cursive;
+    font-size: 40px;
+    margin-top: 30px;
+}
+.section8 h2{
+    font-family: 'Poiret One', cursive;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+#iconito2{
+    margin-top: 20px;
+    color: #333;
+}
+footer{
+    text-align: center;
+    height: 150px;
+    background-image: url(/img/footer.jpg);
+}
+footer h6{
+    padding-top: 50px;
+}
+.section9{
+    background-size: cover;
+    background-image: url(/img/fonditos.jpg);
+    background-color: #E5E8E8;
+    text-align: center;
+}
+.section9 img{
+    height: 60px;
+    margin-left: -5px;
+}
+.section9 h3{
+    font-family: 'Tangerine', cursive;
+    font-size: 40px;
+    margin-top: 10px;
+}
+.section9 h6{
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 20px;
+    font-family: 'Poiret One', cursive;
+    text-align: center;
+    margin-bottom: 10px;
+}
+span{
+    font-weight: 400;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 17px;
+}
+.card{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.section10 h3{
+    text-align: center;
+    font-family: 'Tangerine', cursive;
+    font-size: 40px;
+    margin-top: 10px;
+}
+.btnnenviar{
+    margin-bottom: 10px;
+    float: right;
+}
+
+
+
+@media (max-width: 425px){
+    #cuenta{
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 160px;
+        margin-top: 50px;
+    }
+    .simply-section{
+        background: #45b39d;
+        width: 100px;
+        height: 100px;
+        margin-left: 8px;
+        margin-right: 8px;
+        border-radius: 5px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .simply-amount{
+        display: block;
+        font-size: 25px;
+        font-weight: 400;
+    }
+    
+    .simply-word{
+        font-family: 'Poiret One', cursive;
+        font-weight: 700;
+        font-size: 15px;
+    }
+    #imag{
+        height: 250px;
+    }
+    #titcont{
+        margin-top: -30px;
+        font-size: 30px;
+        text-align: center;
+        font-family: 'Poiret One', cursive;
+        font-weight: 400;
+    }
+    .mapita2{
+        margin-top: -40px;
+        height: 200px;
+        margin-bottom: 90px;
+    }
+    .mapita{ 
+        height: 200px;
+        margin-top: -50px;
+        margin-bottom: 40px;
+    }
+
+}
+@media (max-width: 320px){
+    #cuenta{
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 90px;
+        margin-top: 90px;
+    }
+    .simply-section{
+        background: #45b39d;
+        width: 100px;
+        height: 100px;
+        margin-left: 8px;
+        margin-right: 8px;
+        border-radius: 5px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .simply-amount{
+        display: block;
+        font-size: 25px;
+        font-weight: 400;
+    }
+    
+    .simply-word{
+        font-family: 'Poiret One', cursive;
+        font-weight: 700;
+        font-size: 15px;
+    }
+    #imag{
+        height: 100px;
+    }
+    #titcont{
+        margin-top: -30px;
+        font-size: 30px;
+        text-align: center;
+        font-family: 'Poiret One', cursive;
+        font-weight: 400;
+    }
+    .mapita2{
+        margin-top: -40px;
+        height: 200px;
+        margin-bottom: 90px;
+    }
+    .mapita{ 
+        height: 200px;
+        margin-top: -50px;
+        margin-bottom: 40px;
+    }
+}
+@media (max-width: 390px){
+    #cuenta{
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 60px;
+        margin-top: 40px;
+    }
+    .simply-section{
+        background: #45b39d;
+        width: 100px;
+        height: 100px;
+        margin-left: 8px;
+        margin-right: 8px;
+        border-radius: 5px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .simply-amount{
+        display: block;
+        font-size: 25px;
+        font-weight: 400;
+    }
+    
+    .simply-word{
+        font-family: 'Poiret One', cursive;
+        font-weight: 700;
+        font-size: 15px;
+    }
+    #imag{
+        height: 200px;
+    }
+    #titcont{
+        margin-top: 5px;
+        font-size: 30px;
+        text-align: center;
+        font-family: 'Poiret One', cursive;
+        font-weight: 400;
+    }
+    .mapita2{
+        margin-top: -40px;
+        height: 200px;
+        margin-bottom: 90px;
+    }
+    .mapita{ 
+        height: 200px;
+        margin-top: -50px;
+        margin-bottom: 40px;
+    }
+
+}
+@media (max-width: 414px){
+    #cuenta{
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 60px;
+        margin-top: 40px;
+    }
+    .simply-section{
+        background: #45b39d;
+        width: 100px;
+        height: 100px;
+        margin-left: 8px;
+        margin-right: 8px;
+        border-radius: 5px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .simply-amount{
+        display: block;
+        font-size: 25px;
+        font-weight: 400;
+    }
+    
+    .simply-word{
+        font-family: 'Poiret One', cursive;
+        font-weight: 700;
+        font-size: 15px;
+    }
+    #imag{
+        height:250px;
+    }
+    #titcont{
+        margin-top: 5px;
+        font-size: 30px;
+        text-align: center;
+        font-family: 'Poiret One', cursive;
+        font-weight: 400;
+    }
+    .mapita2{
+        margin-top: -40px;
+        height: 200px;
+        margin-bottom: 90px;
+    }
+    .mapita{ 
+        height: 200px;
+        margin-top: -50px;
+        margin-bottom: 40px;
+    }
+
+}
+@media (max-width: 360px){
+    #cuenta{
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 60px;
+        margin-top: 40px;
+    }
+    .simply-section{
+        background: #45b39d;
+        width: 100px;
+        height: 100px;
+        margin-left: 8px;
+        margin-right: 8px;
+        border-radius: 5px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .simply-amount{
+        display: block;
+        font-size: 25px;
+        font-weight: 400;
+    }
+    
+    .simply-word{
+        font-family: 'Poiret One', cursive;
+        font-weight: 700;
+        font-size: 15px;
+    }
+    #imag{
+        height: 225px;
+    }
+    #titcont{
+        margin-top: 5px;
+        font-size: 30px;
+        text-align: center;
+        font-family: 'Poiret One', cursive;
+        font-weight: 400;
+    }
+    .mapita2{
+        margin-top: -40px;
+        height: 200px;
+        margin-bottom: 90px;
+    }
+    .mapita{ 
+        height: 200px;
+        margin-top: -50px;
+        margin-bottom: 40px;
+    }
+
+}
+
+
+
+
